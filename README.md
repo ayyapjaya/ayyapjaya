@@ -7,7 +7,7 @@
 - 💻 Experienced in **HTML, CSS, JavaScript, SCSS**, and integrating **design systems** into scalable projects.  
 - 🎨 Love blending **UI/UX design principles** with clean code to create impactful digital experiences.  
 - 🤝 Looking to collaborate on **open-source frontend projects** and innovative web applications.  
-- 📫 Reach me at: [ayyappan5692@gmail.com] | [LinkedIn link]  
+- 📫 Reach me at: [ayyappan5692@gmail.com] 
 
 <!---
 ayyapjaya/ayyapjaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
